@@ -1,7 +1,7 @@
 var path = require('path')
 var utils = require('./utils')
 var config = require('../config')
-var pages = require('./page.config')
+var pages = require('./pages.conf')
 
 function resolve(dir) {
   return path.join(__dirname, '..', dir)

@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "webpack-template",
   "version": "1.0.0",
-  "description": "material-ui demo",
+  "description": "webpack for muti-pages",
   "author": "shiroyan",
   "private": true,
   "scripts": {

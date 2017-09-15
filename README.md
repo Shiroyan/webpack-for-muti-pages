@@ -1,5 +1,7 @@
 # 传统多页应用webpack配置
 
+### [构建过程](https://segmentfault.com/a/1190000011193690)
+
 ### 推荐目录结构
       build
       config
