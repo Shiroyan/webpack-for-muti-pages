@@ -6,16 +6,18 @@
       build
       config
       src
-       |———— index
-       |       |————— index.html
-       |       |————— index.css
-       |       |————— index.js
-       |
-       |———— index2
-               |————— index.html
-               |————— index.css
-               |————— index.js
-      static      // 存放静态资源
+       |———— views
+       |       |———— index
+       |       |       |————— index.html
+       |       |       |————— index.css
+       |       |       |————— index.js
+       |       |
+       |       |———— index2
+       |               |————— index.html
+       |               |————— index.css
+       |               |————— index.js
+       |———— static      // 存放静态资源
+       |———— lib         // 存放第三方库
 
 ### 解释
 *  为什么要使用这种目录结构？
