@@ -5,6 +5,7 @@
 ### 推荐目录结构
       build
       config
+      static              // 存放静态资源
       src
        |———— views
        |       |———— index
@@ -16,7 +17,7 @@
        |               |————— index.html
        |               |————— index.css
        |               |————— index.js
-       |———— static      // 存放静态资源
+       |
        |———— lib         // 存放第三方库
 
 ### 解释
